@@ -488,5 +488,31 @@
     "paper": "https://arxiv.org/abs/2508.08983",
     "image": "images/papers/2508.08983.jpg",
     "note": "Infers the intent behind one or a few demonstrations as a compact program of goals and constraints, then plans with it in new scenes."
+  },
+  {
+    "title": "Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation",
+    "authors": "Zi-ang Cao, Kaiyuan Zheng, Yinzhen Xu, Haonan Duan, Jiasheng Gu, Fengyuan Hu, Nan Zhu, Kun Lei, Kevin Lin, Ruijie Zheng, Shenyuan Gao, Fangqi Zhu, Zhe Zhang, Radha Poovendran, Linxi \"Jim\" Fan, Guanzhi Wang, Yuke Zhu",
+    "venue": "arXiv 2026",
+    "year": 2026,
+    "topics": [
+      "constraints"
+    ],
+    "paper": "https://arxiv.org/abs/2611.24926",
+    "project": "https://research.nvidia.com/labs/gear/grana/",
+    "code": "https://github.com/NVlabs/Grana",
+    "note": "Composes subtask progress with credit for completed steps into a whole-task reward signal, reusing a language-conditioned predictor across tasks."
+  },
+  {
+    "title": "SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation",
+    "authors": "Qianzhong Chen, Hau Zheng, Justin Yu, Suning Huang, Jiankai Sun, Ken Goldberg, Chuan Wen, Pieter Abbeel, Yide Shentu, Philipp Wu, Mac Schwager",
+    "venue": "arXiv 2026",
+    "year": 2026,
+    "topics": [
+      "modular"
+    ],
+    "paper": "https://arxiv.org/abs/2606.10305",
+    "project": "https://qianzhong-chen.github.io/sarm2.github.io/",
+    "code": "https://github.com/xdofai/opensarm",
+    "note": "Uses a reusable action-primitive stage estimator to route predictions through shared mixture-of-experts modules for dense reward modeling across tasks."
   }
 ]
