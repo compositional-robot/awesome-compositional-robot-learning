@@ -138,6 +138,11 @@ Each paper is listed under its primary topic, newest first. The [website](https:
 
 ### Composing Constraints & Objectives
 
+- **Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation**<br>
+  Zi-ang Cao, Kaiyuan Zheng, Yinzhen Xu, Haonan Duan, Jiasheng Gu, Fengyuan Hu, Nan Zhu, Kun Lei, Kevin Lin, Ruijie Zheng, Shenyuan Gao, Fangqi Zhu, Zhe Zhang, Radha Poovendran, Linxi "Jim" Fan, Guanzhi Wang, Yuke Zhu<br>
+  *arXiv 2026* [[Paper]](https://arxiv.org/abs/2611.24926) [[Project]](https://research.nvidia.com/labs/gear/grana/) [[Code]](https://github.com/NVlabs/Grana)<br>
+  Composes subtask progress with credit for completed steps into a whole-task reward signal, reusing a language-conditioned predictor across tasks.
+
 - **Compositional Diffusion-Based Continuous Constraint Solvers**<br>
   Zhutian Yang, Jiayuan Mao, Yilun Du, Jiajun Wu, Joshua B. Tenenbaum, Tomás Lozano-Pérez, Leslie Pack Kaelbling<br>
   *CoRL 2023* [[Paper]](https://arxiv.org/abs/2309.00966) [[Project]](https://diffusion-ccsp.github.io/)<br>
@@ -211,6 +216,11 @@ Each paper is listed under its primary topic, newest first. The [website](https:
   Recursively decomposes a task specification into sub-programs that call reusable primitives.
 
 ### Modular Architectures
+
+- **SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation**<br>
+  Qianzhong Chen, Hau Zheng, Justin Yu, Suning Huang, Jiankai Sun, Ken Goldberg, Chuan Wen, Pieter Abbeel, Yide Shentu, Philipp Wu, Mac Schwager<br>
+  *arXiv 2026* [[Paper]](https://arxiv.org/abs/2606.10305) [[Project]](https://qianzhong-chen.github.io/sarm2.github.io/) [[Code]](https://github.com/xdofai/opensarm)<br>
+  Uses a reusable action-primitive stage estimator to route predictions through shared mixture-of-experts modules for dense reward modeling across tasks.
 
 - **Modular Lifelong Reinforcement Learning via Neural Composition**<br>
   Jorge A. Mendez, Harm van Seijen, Eric Eaton<br>
