@@ -500,6 +500,7 @@
     "paper": "https://arxiv.org/abs/2611.24926",
     "project": "https://research.nvidia.com/labs/gear/grana/",
     "code": "https://github.com/NVlabs/Grana",
+    "image": "images/papers/2611.24926.jpg",
     "note": "Composes subtask progress with credit for completed steps into a whole-task reward signal, reusing a language-conditioned predictor across tasks."
   },
   {
@@ -513,6 +514,7 @@
     "paper": "https://arxiv.org/abs/2606.10305",
     "project": "https://qianzhong-chen.github.io/sarm2.github.io/",
     "code": "https://github.com/xdofai/opensarm",
+    "image": "images/papers/2606.10305.jpg",
     "note": "Uses a reusable action-primitive stage estimator to route predictions through shared mixture-of-experts modules for dense reward modeling across tasks."
   }
 ]
