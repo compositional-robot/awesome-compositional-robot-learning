@@ -54,6 +54,11 @@ Each paper is listed under its primary topic, newest first. The [website](https:
   *arXiv 2026* [[Paper]](https://arxiv.org/abs/2610.24981) [[Project]](https://dreamcan.github.io/) [[Code]](https://github.com/HeegerGao/DreamCan)<br>
   Plans long-horizon manipulation as a sparse sequence of visual subgoals.
 
+- **What Do You Need for Compositional Generalization in Diffusion Planning?**<br>
+  Quentin Clark, Florian Shkurti<br>
+  *CoRL 2026* [[Paper]](https://arxiv.org/abs/2505.18083) [[Project]](https://rvl.cs.toronto.edu/eqnet_project_page/) [[Code]](https://github.com/rvl-lab-utoronto/diffusion-stitching)<br>
+  Studies what lets a diffusion planner stitch short training trajectories into new long-horizon plans, and introduces an architecture that composes skills more robustly in the low-data regime.
+
 - **Generative Trajectory Stitching through Diffusion Composition**<br>
   Yunhao Luo, Utkarsh A. Mishra, Yilun Du, Danfei Xu<br>
   *arXiv 2025* [[Paper]](https://arxiv.org/abs/2503.05153) [[Project]](https://comp-diffuser.github.io/)<br>
