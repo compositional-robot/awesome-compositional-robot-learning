@@ -516,5 +516,19 @@
     "code": "https://github.com/xdofai/opensarm",
     "image": "images/papers/2606.10305.jpg",
     "note": "Uses a reusable action-primitive stage estimator to route predictions through shared mixture-of-experts modules for dense reward modeling across tasks."
+  },
+  {
+    "title": "What Do You Need for Compositional Generalization in Diffusion Planning?",
+    "authors": "Quentin Clark, Florian Shkurti",
+    "venue": "CoRL 2026",
+    "year": 2026,
+    "topics": [
+      "time"
+    ],
+    "paper": "https://arxiv.org/abs/2505.18083",
+    "project": "https://rvl.cs.toronto.edu/eqnet_project_page/",
+    "code": "https://github.com/rvl-lab-utoronto/diffusion-stitching",
+    "image": "images/papers/2505.18083.jpg",
+    "note": "Studies what lets a diffusion planner stitch short training trajectories into new long-horizon plans, and introduces an architecture that composes skills more robustly in the low-data regime."
   }
 ]
